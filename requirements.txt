@@ -4,3 +4,4 @@ langgraph
 unstructured
 pdfminer.six
 opencv-python-headless
+pi-heif
