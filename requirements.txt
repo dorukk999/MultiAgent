@@ -1,5 +1,6 @@
 streamlit
 google-generativeai
 langgraph
-unstructured[pdf]
+unstructured
 pdfminer.six
+opencv-python-headless
