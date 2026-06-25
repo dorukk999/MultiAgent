@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+langgraph
+unstructured[pdf]
+pdfminer.six
