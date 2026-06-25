@@ -5,3 +5,7 @@ unstructured
 pdfminer.six
 opencv-python-headless
 pi-heif
+unstructured-inference
+layoutparser
+torch
+torchvision
