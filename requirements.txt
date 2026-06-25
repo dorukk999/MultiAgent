@@ -1,9 +1,9 @@
 streamlit
 google-generativeai
 langgraph
-unstructured
+unstructured[pdf]
+unstructured-inference
 pdfminer.six
 opencv-python-headless
 pi-heif
-opencv-python-headless
 poppler-utils
